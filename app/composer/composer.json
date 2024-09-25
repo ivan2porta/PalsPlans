@@ -1,0 +1,14 @@
+{
+    "name": "proyecto/inkbyte",
+    "description": "Proyecto InkByte 2DAW",
+    "type": "project",
+    "license": "license preferred by the community",
+    "authors": [
+        {
+            "name": "inkbyte",
+            "email": "inkbytedaw@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": { "phpmailer/phpmailer": "^6.0"}
+}

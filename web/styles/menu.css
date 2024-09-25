@@ -1,0 +1,28 @@
+.menu {
+  /* width : 20rem; */
+  height: 100%;
+}
+
+.menu3 {
+  /* width : 20rem; */
+  height: 4rem;
+}
+
+.logo-nav{
+  height: 100%;
+}
+
+#logo {
+  /* width : 3rem;  */
+  height: 3rem;
+}
+
+#logobmovil {
+  /* width : 3rem;  */
+  height: 2rem;
+}
+.imgCirculo {
+  width: 7vh;  
+  height: 7vh;
+  object-fit: cover;
+}

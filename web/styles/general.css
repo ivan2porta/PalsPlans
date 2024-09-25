@@ -1,0 +1,87 @@
+
+
+.principal{
+    height: 100%;
+}
+
+.major{
+    height: 98%;
+}
+
+.imgBUser{
+    height: 5rem; 
+    width: 5rem;
+    object-fit: cover;
+}
+
+.divCategoria{
+    height: 100%;
+}
+
+.imgCirculoSol{
+    height: 3rem;
+    width: 3rem;
+    object-fit: cover;
+}
+
+.fotoPerfil{
+    height: 10rem;
+    width: 10rem;
+     object-fit: cover;
+}
+
+.fotoPerfilMovil{
+    height: 4rem;  
+     width: 4rem;
+}
+
+.suspensivos {
+    overflow: hidden;      
+    white-space: nowrap;    
+    text-overflow: ellipsis;
+}
+
+.cardPlan{
+    height: 30rem;
+    p{
+        height: 5rem;
+    }
+}
+
+@media (width <=992px) {
+    .cardPlan{
+        height: 22rem;
+    }
+    .fotoPerfil{
+        height: 7rem;
+        width: auto;
+    }
+
+    .principal{
+        height: 98%;
+    }
+
+    .major{
+        height: 89%;
+    }
+  }
+
+  @media (width <=576px) {
+    .principal{
+        height: 98%;
+    }
+
+    .major{
+        height: 92%;
+    }
+  }
+
+  @media (width <=331px) {
+    .cardPlan{
+        height: 23rem;
+    }
+  }
+
+  
+
+

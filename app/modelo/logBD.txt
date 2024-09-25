@@ -1,0 +1,6 @@
+
+SQLSTATE[HY000]: General error: 1007 Can't create database 'palsplans'; database exists## Fichero: W:\XAMPP\htdocs\DWES\PalsPlans\app\modelo\crearBD.php## Línea: 31##Código: HY000##Instante: 0.84061500 1714989567
+SQLSTATE[42000]: Syntax error or access violation: 1072 Key column 'IdGrupo' doesn't exist in table## Fichero: W:\XAMPP\htdocs\DWES\PalsPlans\app\modelo\crearBD.php## Línea: 31##Código: 42000##Instante: 0.83949300 1715064624
+SQLSTATE[42000]: Syntax error or access violation: 1072 Key column 'IdGrupo' doesn't exist in table## Fichero: W:\XAMPP\htdocs\DWES\PalsPlans\app\modelo\crearBD.php## Línea: 31##Código: 42000##Instante: 0.38241100 1715064834
+SQLSTATE[42000]: Syntax error or access violation: 1072 Key column 'IdGrupo' doesn't exist in table## Fichero: W:\XAMPP\htdocs\DWES\PalsPlans\app\modelo\crearBD.php## Línea: 31##Código: 42000##Instante: 0.17868200 1715064940
+SQLSTATE[42000]: Syntax error or access violation: 1072 Key column 'IdGrupo' doesn't exist in table## Fichero: W:\XAMPP\htdocs\DWES\PalsPlans\app\modelo\crearBD.php## Línea: 31##Código: 42000##Instante: 0.37746600 1715065077

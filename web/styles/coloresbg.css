@@ -1,0 +1,32 @@
+.bg-crudo{
+    background-color: #ede7e3 ;
+}
+
+.bg-azul-oscuro{
+    background-color: #16697a !important;
+}
+
+.bg-azul-medio{
+    background-color: #489fb5 !important;
+}
+
+.bg-azul-claro{
+    background-color: #82C0CC !important;
+}
+
+.bg-naranja{
+    background-color: #ffa62b !important;
+}
+
+.bg-naranja:hover{
+    background-color: #c17f22 !important;
+}
+
+.txt-naranja{
+    color:#ffa62b;
+}
+
+.txt-azul-oscuro{
+    color:#16697a;
+}
+

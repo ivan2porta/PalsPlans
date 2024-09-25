@@ -1,0 +1,20 @@
+.imgPaginaCirculo{
+    width: 15rem; 
+    height: 15rem;
+    object-fit: cover;
+}
+#bEliminarCirculoMovil{
+    width: 100%;
+}
+
+#bSalirCirculoMovil{
+    width: 100%;
+}
+
+#bEditarCirculoMovil{
+    width: 100%;
+}
+
+#cplanMovil{
+    width: 100%;
+}

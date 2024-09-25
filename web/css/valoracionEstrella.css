@@ -1,0 +1,22 @@
+.rating {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+  }
+  
+  .rating input {
+    display: none;
+  }
+  
+  .rating label {
+    cursor: pointer;
+    width: 20px;
+    height: 20px;
+    background-image: url('../../app/archivos/img/iconos/favorito.png'); /* Cambia 'star.png' por la ruta de tu imagen de estrella */
+    background-size: cover;
+  }
+  
+  .rating input:checked ~ label {
+    background-image: url('../../app/archivos/img/iconos/favorito(2).png'); /* Cambia 'star-filled.png' por la ruta de tu imagen de estrella llena */
+  }
+  

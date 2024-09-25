@@ -1,0 +1,9 @@
+#login{display: none;}
+#reg{height: 80%;}
+.logoTexto{max-width: 20rem;}
+.divInicio{height: 100%;}
+.imgInicio{max-width: 50rem;}
+
+@media (width <=1199px) {
+    #reg{height: 95%;}
+}
