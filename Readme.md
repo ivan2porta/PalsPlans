@@ -35,3 +35,16 @@ El objetivo de esta aplicación es permitir a los usuarios organizar sus planes 
 3. Proponen un plan para hacer una excursión, fijando fecha, lugar y presupuesto.
 4. Los miembros del círculo confirman si participarán en la excursión antes de la fecha límite.
 5. Todos pueden ver de forma clara quién asistirá y los detalles de la actividad.
+
+---
+
+## 🖼️ Ejemplos visuales de la plataforma
+
+### Pantalla de Inicio
+![Pantalla de inicio](./images/inicio.png)
+
+### Pantalla de Círculo
+![Círculo](./images/circulo.png)
+
+### Propuesta de un Plan
+![Plan](./images/plan.png)
